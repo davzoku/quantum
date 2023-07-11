@@ -1,0 +1,11 @@
+name: quantum
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - qiskit-terra
+  - jupyterlab
+  - matplotlib
+  - pylatexenc
+  - python-dotenv
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/quantum
