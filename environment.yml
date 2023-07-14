@@ -11,4 +11,5 @@ dependencies:
   - scikit-learn
   - pytorch
   - tqdm
+  - ipympl
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/quantum
