@@ -8,4 +8,7 @@ dependencies:
   - matplotlib
   - pylatexenc
   - python-dotenv
+  - scikit-learn
+  - pytorch
+  - tqdm
 prefix: /opt/homebrew/Caskroom/miniconda/base/envs/quantum
